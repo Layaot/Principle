@@ -47,7 +47,7 @@
     },
     {
       "path": "config/AsmodeusCore/core.conf",
-      "hash": "06a63f17ff79ff76bb4e080fc8c5df062a3d2112"
+      "hash": "ce2776be2e5cbffcb2c494d9b314a97600d2419a"
     },
     {
       "path": "config/astralsorcery/aevitas_ore_perk.cfg",
@@ -55,7 +55,7 @@
     },
     {
       "path": "config/astralsorcery/amulet_enchantments.cfg",
-      "hash": "e2c56e305ab36f1d80752850c80ba70680d4752c"
+      "hash": "3f576083e34e32cf9acaff48a0a4484ed2696a53"
     },
     {
       "path": "config/astralsorcery/fluid_rarities.cfg",
@@ -91,7 +91,7 @@
     },
     {
       "path": "config/betterfps.json",
-      "hash": "f89967c63ddd0ad88d594dfd4ca334d650e0a75c"
+      "hash": "c4dae4f37c8bd8dc10df4a793291a748924ed1f7"
     },
     {
       "path": "config/botania.cfg",
@@ -264,6 +264,10 @@
     {
       "path": "config/cosmeticarmorreworked.cfg",
       "hash": "24417796716734397a3b6149c2dad5d51cd5c29b"
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "hash": "2474a7a3fbffd3837d18da09176fee6765b31d60"
     },
     {
       "path": "config/cyclicmagic.cfg",
@@ -667,7 +671,7 @@
     },
     {
       "path": "config/flammpfeil.slashblade.cfg",
-      "hash": "668ad34975ab26630923d6c5f87e9592aa1f0bed"
+      "hash": "21f3d38f462a4fd5c19b937bb6446c6e36d43a72"
     },
     {
       "path": "config/fluiddrawers.cfg",
@@ -763,7 +767,7 @@
     },
     {
       "path": "config/IC2.ini",
-      "hash": "912b9495c2e20df39a28606add94663549e97054"
+      "hash": "4fd762e2cff7770f884fadcbb85164f13122afec"
     },
     {
       "path": "config/ice_and_fire.cfg",
@@ -803,7 +807,7 @@
     },
     {
       "path": "config/InvTweaks/InvTweaks.cfg",
-      "hash": "6355b0132fb92f20508ee762471dcd02208db9c4"
+      "hash": "1e5e9c2f04b64efcf994e89290362a99d0b36ff9"
     },
     {
       "path": "config/InvTweaks/InvTweaksRules.txt",
@@ -835,7 +839,7 @@
     },
     {
       "path": "config/jei/worldSettings.cfg",
-      "hash": "a75b15ef674d340b67eb8b25c8d7850fe068bd5b"
+      "hash": "f12b48e440674790bec2c4b0eb2134cd40e7fa2f"
     },
     {
       "path": "config/jeiutilities/jeiutilities.cfg",
@@ -943,7 +947,7 @@
     },
     {
       "path": "config/splash.properties",
-      "hash": "73a9a867d5ef70a926fd1c9a3f461b4c0dc51703"
+      "hash": "ec49b1f99b788f88c449f2591d1391b3baa11739"
     },
     {
       "path": "config/stevekung\u0027s_lib.cfg",
@@ -1066,6 +1070,10 @@
       "hash": "a395799d1db282b2969d9938be71c9fdf761e30a"
     },
     {
+      "path": "hmclversion.cfg",
+      "hash": "e9b9e417894e2295c4dbd21f8859a9057f9bb0d4"
+    },
+    {
       "path": "Implib_FEC.bin",
       "hash": "b4786912c1eee86773c6594836e6c65c2a575955"
     },
@@ -1178,6 +1186,14 @@
       "hash": "71b854406115d73031eb6c1e574f8732bfc3312b"
     },
     {
+      "path": "journeymap/data/mp/Principle~/DIM0/3/-111,59.png",
+      "hash": "a6de05ef8c79016a573626816522b4d45febb144"
+    },
+    {
+      "path": "journeymap/data/mp/Principle~/DIM0/3/-112,59.png",
+      "hash": "fa11bfed28a46270307e48d9ceae28c9604da194"
+    },
+    {
       "path": "journeymap/data/mp/Principle~/DIM0/3/-113,60.png",
       "hash": "f7a475498be64f908425ed76697d701da13122e7"
     },
@@ -1218,8 +1234,12 @@
       "hash": "665258e223764f4ca2ce20ae13d58927c2042abc"
     },
     {
+      "path": "journeymap/data/mp/Principle~/DIM0/4/-111,59.png",
+      "hash": "3e2da53647358d104bf8726c7ebacd2cedeb1f1a"
+    },
+    {
       "path": "journeymap/data/mp/Principle~/DIM0/4/-112,59.png",
-      "hash": "2bcf3b2d603154b26fc72afcf2b7ccc7e0f11762"
+      "hash": "492a652eae726c6da12eaa12dcb4497ae6b1c25b"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/4/-112,60.png",
@@ -1259,7 +1279,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/6/-112,59.png",
-      "hash": "adacfe52f847905dedf9dc2412a51b0ab6932bb2"
+      "hash": "63c680b8b1704740a0e5a1d1b2b7b4aaec0a9d44"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/6/-4,39.png",
@@ -1271,7 +1291,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/7/-112,59.png",
-      "hash": "79360cb0d8092f4db76d9177434722daeefb15be"
+      "hash": "778004a94710e44d5e03fb09bb59184df8f2ca6c"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/8/-111,60.png",
@@ -1283,7 +1303,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-111,59.png",
-      "hash": "967312daa38cc7ed322a97784e41b3d95476c782"
+      "hash": "aff83e8264e7c86e03e893890362e0cb67c22d44"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-111,60.png",
@@ -1291,11 +1311,11 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-112,59.png",
-      "hash": "e9dbda45ba47d9f1a34fe8e0cb4894daeb08483f"
+      "hash": "213beb46507cd8984c9a5bdc45276ed03e75c2d5"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-112,60.png",
-      "hash": "ada778719490153e639a42975c6f8d7b185c3eb4"
+      "hash": "757034f0255f9c6875f80a1d1e7070c3ac41f129"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-113,59.png",
@@ -1347,7 +1367,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-4,39.png",
-      "hash": "977c6410d55ba114fd7d41aaf6016b49085cc68f"
+      "hash": "fe253b1cee7c942827c2cc48059c86199cf8e774"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/day/-4,49.png",
@@ -1447,7 +1467,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-111,59.png",
-      "hash": "8fa160e2b65538965a7181617b0057b72f7ab54b"
+      "hash": "a0fb9103eb6f84eee2e9d885bf74010b7162141a"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-111,60.png",
@@ -1455,11 +1475,11 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-112,59.png",
-      "hash": "5a18dee47b8d5cc864a54495de417ddb8cfde7d1"
+      "hash": "01a22dd81833307cac347818bb426be6eb854aab"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-112,60.png",
-      "hash": "6358d6473e28c13c1981b56007c1acef4da3305c"
+      "hash": "87d30fd65632c52aa97067b71ff51c40e10154f9"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-113,59.png",
@@ -1511,7 +1531,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-4,39.png",
-      "hash": "67c07a81440a4a0fbbe03cbbf5bafe876a087d9b"
+      "hash": "4efaf9a8e16e55b99ea942611d2ff5cbf31e9282"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/night/-4,49.png",
@@ -1611,7 +1631,7 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/topo/-111,59.png",
-      "hash": "e9f59ee54d345c28f35d9d61d3ef4503f51cc6bf"
+      "hash": "8aebe6672d0e91dcc20b80825ed131065fbdf41d"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/topo/-111,60.png",
@@ -1623,11 +1643,11 @@
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/topo/-112,59.png",
-      "hash": "a55f94d1139885818e4a094017156ea073e344b7"
+      "hash": "df9e954486a24a5eaba24b9893b3564e96f3280a"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/topo/-112,60.png",
-      "hash": "54a8cd5258ecfadaca1f8cd1f01c43c4855c1523"
+      "hash": "54f04d787131833b11eb2789481ef3355993f0d5"
     },
     {
       "path": "journeymap/data/mp/Principle~/DIM0/topo/-113,59.png",
@@ -1790,6 +1810,10 @@
       "hash": "88a5fd2eb5a9acd96774e9f58914ff323be5480e"
     },
     {
+      "path": "journeymap/data/mp/Principle~/waypoints/死亡地点 03_29_28 04-24-2023_-56900,104,30440.json",
+      "hash": "2961de476f70d03a4e18bbf4d61cdce86bd34c08"
+    },
+    {
       "path": "journeymap/data/mp/Principle~/waypoints/死亡地点 11_28_13 04-22-2023_-1592,26,20408.json",
       "hash": "c1aadf4ac7259a22d3f485a39703d19acf0d6a40"
     },
@@ -1839,7 +1863,7 @@
     },
     {
       "path": "llibrary/debug/net.minecraft.client.renderer.entity.RenderLivingBase.class",
-      "hash": "64669e827f8e23d3aeee1d10a1a7b4492e366cb1"
+      "hash": "e7391a019de5463b6080e6a466ddfb7ac152d99a"
     },
     {
       "path": "llibrary/debug/net.minecraft.client.renderer.entity.RenderPlayer.class",
@@ -1882,6 +1906,10 @@
       "hash": "ed291bd9f5ef6f453631ca251308d18897de7ad9"
     },
     {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
       "path": "mods/!mixinbooter-7.1.jar",
       "hash": "65cbe8e04a32c9ba1cf43a4c3bd7737ba3705e09"
     },
@@ -1896,6 +1924,10 @@
     {
       "path": "mods/AsmodeusCore-1.12.2-0.0.31.jar",
       "hash": "6f108df1a21ed39afd3cc85f8372820596624e78"
+    },
+    {
+      "path": "mods/BetterFoliage-MC1.12-2.3.3.jar",
+      "hash": "c34adcb52deed9acedb0b0c92ef7132f97c21e4d"
     },
     {
       "path": "mods/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
@@ -1920,6 +1952,10 @@
     {
       "path": "mods/CyclopsCore-1.12.2-1.6.7.jar",
       "hash": "29939475b84a3771d8675dd48cd7d9c74b0771d8"
+    },
+    {
+      "path": "mods/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+      "hash": "3d5d62c9d44517991d19e165d2051209b2d06bf3"
     },
     {
       "path": "mods/ElectroblobsWizardry-4.3.9.jar",
@@ -1948,6 +1984,10 @@
     {
       "path": "mods/industrialcraft-2-2.8.222-ex112.jar",
       "hash": "7b1263c23b3a276ae7bee4ef9b07b0a96cb397b1"
+    },
+    {
+      "path": "mods/ItemPhysic+Lite+1.3.7+mc1.12.2.jar",
+      "hash": "63fd419d636d509023fdc435aab2ba379970a334"
     },
     {
       "path": "mods/JustEnoughEnergistics-1.12.2-1.0.8.jar",
@@ -2006,6 +2046,10 @@
       "hash": "f1ffc295eaf2e22e24673946e46219d4bb4b39b9"
     },
     {
+      "path": "mods/MoBends_1.12.2-1.2.1-19.12.21.jar",
+      "hash": "79b40921c29312c4acec13db282c2abe3274af3b"
+    },
+    {
       "path": "mods/More-Planets-1.12.2-2.3.2-GC4.0.5.jar",
       "hash": "6b42305d8e7ba68b9156e775cb442b75a9da2537"
     },
@@ -2020,6 +2064,10 @@
     {
       "path": "mods/netheriteroad-1.3.jar",
       "hash": "3bca698e1499ac0ede2f9e4bc7b079f576b593e9"
+    },
+    {
+      "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
+      "hash": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8"
     },
     {
       "path": "mods/p455w0rdslib-1.12.2-2.3.161.jar",
@@ -2040,6 +2088,10 @@
     {
       "path": "mods/SlashBlade-mc1.12-r33.jar",
       "hash": "79334d8886a985d5b799c1df8589733251407caf"
+    },
+    {
+      "path": "mods/Sound-Physics-1.12.2-1.0.10-1.jar",
+      "hash": "3fe6b7533376041ada5bf1d5491320f94326f469"
     },
     {
       "path": "mods/SteveKunG\u0027s-Lib-mc1.12.2-v1.3.0.jar",
@@ -2358,16 +2410,56 @@
       "hash": "aa952832b369ff12a26ef608ee7a001b687ca226"
     },
     {
+      "path": "natives-windows-x86_64/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1"
+    },
+    {
       "path": "options.txt",
-      "hash": "12379861ee0249111e3b0cc07e48f61a6aaa8780"
+      "hash": "ed14136d145a5676f10edeccd0ec9bdaba2350fd"
     },
     {
       "path": "optionsof.txt",
-      "hash": "2ac1ac0e068628a5237a2c03739ce6bb98b6a45c"
-    },
-    {
-      "path": "optionsshaders.txt",
-      "hash": "760393e57daf8be1eb18c90367f35db87b229229"
+      "hash": "bd603dc2075b0f6ef7f071067ee4f96dc4c61397"
     },
     {
       "path": "patchouli_data.json",
@@ -2380,10 +2472,6 @@
     {
       "path": "resourcepacks/Unity-1.6.5-1.12-YABBandaid.zip",
       "hash": "608d864ac22f63848176c1d8c4bb1053fa9ea185"
-    },
-    {
-      "path": "servers.dat",
-      "hash": "b45017cf594eac639149c8e5858a1c79605f90ca"
     }
   ],
   "addons": [
